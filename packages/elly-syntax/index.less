@@ -1,0 +1,146 @@
+@import 'syntax-variables';
+
+atom-text-editor, :host {
+    background-color: @syntax-background-color;
+    color: @syntax-text-color;
+
+  .invisible-character, .indent-guide {
+    color: fade(@syntax-invisible-character-color, 18%);
+  }
+
+  .wrap-guide {
+    background-color: @syntax-wrap-guide-color;
+  }
+
+  .gutter {
+    background-color: @syntax-gutter-background-color;
+
+    .cursor-line {
+      background-color: @syntax-gutter-background-color-selected;
+    }
+  }
+
+  .line-number.cursor-line-no-selection {
+    background-color: @syntax-gutter-background-color-selected;
+  }
+
+  .invisible {
+    color: @syntax-text-color;
+  }
+
+  .cursor {
+    border-color: @syntax-cursor-color;
+  }
+
+  .selection .region {
+    background-color: @syntax-selection-color;
+  }
+
+  // Find formatting
+  .find-result .region {
+    background-color: transparent;
+    border: none;
+    box-shadow:
+      0 0 0 2px black,
+      0 0 0 3px @yellow,
+      0 0 5px 3px @yellow;
+    border-radius: 3px;
+  }
+  .current-result .region {
+    border: none;
+    box-shadow:
+      0 0 0 1px @syntax-selection-color,
+      0 0 0 3px @yellow,
+      0 0 5px 5px @yellow;
+    border-radius: 3px;
+  }
+
+  // Fancy comments, because comments should stand out, or be deleted
+  .comment {
+    color: black;
+    background-color: @yellow;
+    box-shadow: 0 0 5px @yellow;
+    border-radius: 3px;
+
+    // Nested comments shouldn't double-box-shadow
+    .comment {
+      box-shadow: none;
+      background-color: transparent;
+    }
+  }
+  .comment.whitespace {
+    background-color: transparent;
+    box-shadow: none;
+  }
+
+  .string {
+    color: @yellow;
+  }
+
+  .constant.numeric,
+  .constant.language,
+  .constant.character,
+  .constant.other {
+    color: @indigo;
+  }
+
+  .keyword {
+    color: @red;
+  }
+
+  .storage {
+    color: @red;
+  }
+
+  .storage.type {
+    font-style: italic;
+    color: @blue;
+  }
+
+  .entity.name.class {
+    text-decoration: underline;
+    color: @green;
+  }
+
+  .entity.other.inherited-class {
+    font-style: italic;
+    text-decoration: underline;
+    color: @green;
+  }
+
+  .entity.name.function {
+    color: @green;
+  }
+
+  .entity.name.instance {
+    color: @blue;
+  }
+
+  .variable.parameter {
+    font-style: italic;
+    color: @orange;
+  }
+
+  .entity.name.tag {
+    color: @red;
+  }
+
+  .entity.other.attribute-name {
+    color: @green;
+  }
+
+  .support.constant, .support.function {
+    color: @blue;
+  }
+
+  .support.type,
+  .support.class {
+    font-style: italic;
+    color: @blue;
+  }
+
+  .invalid {
+    color: @white;
+    background-color: @red;
+  }
+}

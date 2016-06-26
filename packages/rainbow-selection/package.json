@@ -1,0 +1,34 @@
+{
+  "name": "rainbow-selection",
+  "main": "./lib/rainbow-selection",
+  "version": "0.3.1",
+  "description": "Unnecessarily colourful selections",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dmnd/rainbow-selection.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.175.0"
+  },
+  "readme": "# rainbow-selection\n\nUnnecessarily colourful selections, for Atom.\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/dmnd/rainbow-selection/issues"
+  },
+  "homepage": "https://github.com/dmnd/rainbow-selection#readme",
+  "_id": "rainbow-selection@0.3.1",
+  "_shasum": "8c5ad93ea9e5041fd061f135836d94ebda8ee982",
+  "_resolved": "file:../d-1151117-2745-zd8ffc/package.tgz",
+  "_from": "../d-1151117-2745-zd8ffc/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

@@ -1,0 +1,42 @@
+"*":
+  "accents-ui": {}
+  "atom-material-ui":
+    compactTreeView: true
+    fontSize: "Big"
+    panelContrast: true
+  "color-tabs": {}
+  "color-tabs-regex":
+    breakAfterFirstMatch: true
+  core:
+    autoHideMenuBar: true
+    disabledPackages: [
+      "rainbox-tabs"
+      "fonts"
+    ]
+    projectHome: "C:\\Users\\Jacob\\git"
+    themes: [
+      "monokai-tweaked-ui"
+      "elly-syntax"
+    ]
+  editor:
+    fontFamily: "Menlo"
+    fontSize: 24
+    invisibles: {}
+    showInvisibles: true
+  "exception-reporting":
+    userId: "78bb3024-a8af-6270-1a88-b185ac7275d2"
+  "foldername-tabs": {}
+  fonts:
+    fontFamily: "Meslo"
+  "highlight-selected": {}
+  "isotope-ui":
+    backgroundGradient: true
+    customBackgroundColorPicker:
+      alpha: 1
+      blue: 95
+      green: 159
+      red: 0
+  tabs:
+    enableVcsColoring: true
+  welcome:
+    showOnStartup: false

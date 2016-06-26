@@ -1,0 +1,35 @@
+{
+  "name": "elly-syntax",
+  "theme": "syntax",
+  "version": "0.2.3",
+  "private": true,
+  "description": "A dark syntax theme with bold colors and highlighting. It's like a punch in the eyes.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bigdave/elly-syntax.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# A dark syntax theme\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/bigdave/elly-syntax/issues"
+  },
+  "homepage": "https://github.com/bigdave/elly-syntax",
+  "_id": "elly-syntax@0.2.3",
+  "_shasum": "426d046d4a1d1ff96837740fd3da0d957761f9dd",
+  "_resolved": "file:../d-1151112-699-1k5xj3s/package.tgz",
+  "_from": "../d-1151112-699-1k5xj3s/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
