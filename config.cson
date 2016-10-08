@@ -19,7 +19,7 @@
       "elly-syntax"
     ]
   editor:
-    fontFamily: "Menlo"
+    fontFamily: "Noto Sans"
     fontSize: 24
     invisibles: {}
     showInvisibles: true
