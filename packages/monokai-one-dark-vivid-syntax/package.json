@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-11722-30962-a9fbzo/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-11722-30962-a9fbzo/package.tgz",
+        "spec": "/tmp/d-11722-30962-a9fbzo/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-11722-30962-16q8a55"
+    ]
+  ],
+  "_from": "../d-11722-30962-a9fbzo/package.tgz",
+  "_id": "monokai-one-dark-vivid-syntax@1.4.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/monokai-one-dark-vivid-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-11722-30962-a9fbzo/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-11722-30962-a9fbzo/package.tgz",
+    "spec": "/tmp/d-11722-30962-a9fbzo/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11722-30962-a9fbzo/package.tgz",
+  "_shasum": "4573540cc2a110ce632ecdaf90f83a01e0ff4a0e",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-11722-30962-a9fbzo/package.tgz",
+  "_where": "/tmp/apm-install-dir-11722-30962-16q8a55",
+  "bugs": {
+    "url": "https://github.com/ashpowell/monokai-one-dark-vivid-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "Monokai mixed with one dark with some vivid tweaks",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">= 1.13 <2.0.0"
+  },
+  "homepage": "https://github.com/ashpowell/monokai-one-dark-vivid-syntax#readme",
+  "keywords": [
+    "syntax",
+    "theme",
+    "monokai",
+    "one dark",
+    "vivid",
+    "saturated"
+  ],
+  "license": "MIT",
+  "name": "monokai-one-dark-vivid-syntax",
+  "optionalDependencies": {},
+  "readme": "# Monokai One Dark Vivid Syntax Theme\n\nJust a personalised Monokai Vivid Syntax for One Dark.\n\n![Screenshot](https://raw.githubusercontent.com/AshPowell/monokai-one-dark-vivid-syntax/master/screenshot.png)\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashpowell/monokai-one-dark-vivid-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "1.4.0"
+}

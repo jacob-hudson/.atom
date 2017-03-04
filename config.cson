@@ -14,9 +14,10 @@
       "fonts"
     ]
     projectHome: "C:\\Users\\Jacob\\git"
+    telemetryConsent: "no"
     themes: [
-      "monokai-tweaked-ui"
-      "elly-syntax"
+      "seti-ui"
+      "atom-monokai"
     ]
   editor:
     fontFamily: "Noto Sans"
@@ -36,6 +37,10 @@
       blue: 95
       green: 159
       red: 0
+  "seti-ui":
+    compactView: true
+    disableAnimations: true
+    themeColor: "Green"
   tabs:
     enableVcsColoring: true
   welcome:

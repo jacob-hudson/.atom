@@ -1,0 +1,65 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/tmp/d-11722-30828-1uoag72/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/tmp/d-11722-30828-1uoag72/package.tgz",
+        "spec": "/tmp/d-11722-30828-1uoag72/package.tgz",
+        "type": "local"
+      },
+      "/tmp/apm-install-dir-11722-30828-7lh5ur"
+    ]
+  ],
+  "_from": "../d-11722-30828-1uoag72/package.tgz",
+  "_id": "spring-dark-syntax@0.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/spring-dark-syntax",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/tmp/d-11722-30828-1uoag72/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/tmp/d-11722-30828-1uoag72/package.tgz",
+    "spec": "/tmp/d-11722-30828-1uoag72/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11722-30828-1uoag72/package.tgz",
+  "_shasum": "e4183fb5c3f380f2c3e3b2b11258008a845e670e",
+  "_shrinkwrap": null,
+  "_spec": "/tmp/d-11722-30828-1uoag72/package.tgz",
+  "_where": "/tmp/apm-install-dir-11722-30828-7lh5ur",
+  "bugs": {
+    "url": "https://github.com/initrc/spring-dark-syntax/issues"
+  },
+  "dependencies": {},
+  "description": "A dark syntax theme with vivid colors",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/initrc/spring-dark-syntax#readme",
+  "keywords": [
+    "dark",
+    "vivid",
+    "syntax"
+  ],
+  "license": "MIT",
+  "name": "spring-dark-syntax",
+  "optionalDependencies": {},
+  "readme": "## Spring Dark Syntax Theme\n\n![Spring Dark Syntax Theme](https://raw.githubusercontent.com/initrc/spring-dark-syntax/master/screenshot.png)\n\nA dark syntax theme with vivid colors. Forked from [One Dark Syntax](https://github.com/atom/one-dark-syntax).\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/initrc/spring-dark-syntax.git"
+  },
+  "theme": "syntax",
+  "version": "0.0.4"
+}

@@ -2,40 +2,40 @@
   "_args": [
     [
       {
-        "raw": "C:\\Users\\Jacob\\AppData\\Local\\Temp\\d-116817-3016-1blxk64\\package.tgz",
+        "raw": "/tmp/d-117117-12960-1gz7ujn/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "C:\\Users\\Jacob\\AppData\\Local\\Temp\\d-116817-3016-1blxk64\\package.tgz",
-        "spec": "C:\\Users\\Jacob\\AppData\\Local\\Temp\\d-116817-3016-1blxk64\\package.tgz",
+        "rawSpec": "/tmp/d-117117-12960-1gz7ujn/package.tgz",
+        "spec": "/tmp/d-117117-12960-1gz7ujn/package.tgz",
         "type": "local"
       },
-      "C:\\Users\\Jacob\\AppData\\Local\\Temp\\apm-install-dir-116817-3016-1k1b7id"
+      "/tmp/apm-install-dir-117117-12960-15mry1i"
     ]
   ],
-  "_from": "..\\d-116817-3016-1blxk64\\package.tgz",
-  "_id": "indent-guide-improved@1.4.10",
+  "_from": "../d-117117-12960-1gz7ujn/package.tgz",
+  "_id": "indent-guide-improved@1.4.12",
   "_inCache": true,
   "_installable": true,
   "_location": "/indent-guide-improved",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "C:\\Users\\Jacob\\AppData\\Local\\Temp\\d-116817-3016-1blxk64\\package.tgz",
+    "raw": "/tmp/d-117117-12960-1gz7ujn/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "C:\\Users\\Jacob\\AppData\\Local\\Temp\\d-116817-3016-1blxk64\\package.tgz",
-    "spec": "C:\\Users\\Jacob\\AppData\\Local\\Temp\\d-116817-3016-1blxk64\\package.tgz",
+    "rawSpec": "/tmp/d-117117-12960-1gz7ujn/package.tgz",
+    "spec": "/tmp/d-117117-12960-1gz7ujn/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:..\\d-116817-3016-1blxk64\\package.tgz",
-  "_shasum": "9e83bafbb916af26be5a247e9e66e60ddea752bf",
+  "_resolved": "file:../d-117117-12960-1gz7ujn/package.tgz",
+  "_shasum": "0d73c447ddb23e5bc354c138d4a7ce97a3868046",
   "_shrinkwrap": null,
-  "_spec": "C:\\Users\\Jacob\\AppData\\Local\\Temp\\d-116817-3016-1blxk64\\package.tgz",
-  "_where": "C:\\Users\\Jacob\\AppData\\Local\\Temp\\apm-install-dir-116817-3016-1k1b7id",
+  "_spec": "/tmp/d-117117-12960-1gz7ujn/package.tgz",
+  "_where": "/tmp/apm-install-dir-117117-12960-15mry1i",
   "author": {
     "name": "Akihiro HARAI"
   },
@@ -48,7 +48,7 @@
   "description": "This draws indent guide more correctly and understandably.",
   "devDependencies": {},
   "engines": {
-    "atom": ">=1.8.0"
+    "atom": ">=1.13.0-beta0"
   },
   "homepage": "https://github.com/harai/indent-guide-improved#readme",
   "keywords": [
@@ -66,5 +66,5 @@
     "type": "git",
     "url": "git+https://github.com/harai/indent-guide-improved.git"
   },
-  "version": "1.4.10"
+  "version": "1.4.12"
 }
